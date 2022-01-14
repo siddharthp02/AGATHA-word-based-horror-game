@@ -12,6 +12,7 @@ Play and find out :)
 Uncomment(remove #) on line 209(within eol(self)).
 
 ## Run
+
 ```
 python agatha.py
 ```
