@@ -8,13 +8,18 @@ Will you find every ending?
 
 Play and find out :)
 
+## Setup(only for linux users)
+Uncomment(remove #) on line 209(within eol(self)).
+
 ## Run
 ```
 python agatha.py
 ```
-in windows
+in windows.
 ```
 py agatha.py
 ```
-in linux
+in linux.
+
+
 
