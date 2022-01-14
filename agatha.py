@@ -1,15 +1,3 @@
-'''
-def items_in_inventory(inventory):
-    for i in inventory:
-        if i[1] == 1:
-            return True
-        else:
-            return False
-
-
-len(list(filter(items_in_inventory,list(inventory.items()))))
-
-'''
 from random import *
 def lost():
     lost_lines = ["This doesn't seem right, it feels like you've been here before...", "The numbers on these doors seem to be repeating...", "You don't remember these paths, what is going on?", "How does the hotel seem more bigger than it is?","There is something off... you feel you are lost"]
